@@ -9,9 +9,10 @@ author: ZengGanghui
 * content
 {:toc}
 
-## welcome
+# welcome
 init
 
+## hello world
 ```c
 #include <stdio.h>
 
