@@ -12,7 +12,7 @@ author: ZengGanghui
 ## welcome
 init
 
-```C
+```c
 #include <stdio.h>
 
 int main(void)
@@ -41,8 +41,8 @@ if __name__ == '__main__':
 ```
 
 ```java
-public class HelloWorld{
-   public static void main(String args[]){
+public class HelloWorld {
+   public static void main(String args[]) {
       System.out.println("Hello World!");
    }
 }
