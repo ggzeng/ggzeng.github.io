@@ -12,7 +12,7 @@ author: ZengGanghui
 ## welcome
 init
 
-``` C
+```C
 #include <stdio.h>
 
 int main(void)
