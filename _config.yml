@@ -39,6 +39,8 @@ baidu_tongji_id: 856864403803f4431abf539b462ccf58
 google_analytics_id: # google 分析追踪id
 
 # Build settings
+timezone: Asia/Shanghai
+future: true
 markdown: kramdown
 
 kramdown:
