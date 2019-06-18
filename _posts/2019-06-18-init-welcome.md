@@ -1,16 +1,15 @@
 ---
 layout: post
-title:  "welcome"
+title:  "Welcome"
 categories: 
 tags: 
-author: ZengGanghui
+author: "Zeng Ganghui"
 ---
 
 * content
 {:toc}
 
-# welcome
-init
+# init
 
 ## hello world
 ```c
