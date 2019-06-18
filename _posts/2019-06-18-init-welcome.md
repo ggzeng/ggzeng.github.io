@@ -12,6 +12,8 @@ author: "Zeng Ganghui"
 # init
 
 ## hello world
+
+### c
 ```c
 #include <stdio.h>
 
@@ -22,6 +24,7 @@ int main(void)
 }
 ```
 
+### go
 ```go
 package main
 
@@ -32,6 +35,7 @@ func main() {
 }
 ```
 
+### python
 ```python
 def main():
     print('hello world')
@@ -40,6 +44,7 @@ if __name__ == '__main__':
     main()
 ```
 
+### java
 ```java
 public class HelloWorld {
    public static void main(String args[]) {
@@ -48,6 +53,7 @@ public class HelloWorld {
 }
 ```
 
+### c#
 ```c#
 using System;
 namespace HelloWorld
@@ -62,6 +68,7 @@ namespace HelloWorld
 }
 ```
 
+### ruby
 ```ruby
 print "Hello World!"
 ```
