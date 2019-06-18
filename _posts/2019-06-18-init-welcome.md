@@ -47,3 +47,21 @@ public class HelloWorld {
    }
 }
 ```
+
+```c#
+using System;
+namespace HelloWorld
+{
+    class Hello
+    {
+        static void Main()
+        {
+            Console.WriteLine("Hello World!");
+        }
+    }
+}
+```
+
+```ruby
+print "Hello World!"
+```
